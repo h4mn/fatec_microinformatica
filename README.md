@@ -44,3 +44,11 @@ Aulas expositivas e práticas.
 - Gonçalves, Robério. O Grande Livro do Excel - Intermediário e Avançado. Camelot, 2021.
 - Chamon, José E. Excel com VBA na Prática. Érica, 2019.
 - Jelen, Bill. Microsoft Excel 2019 - VBA e Macros. Starling Alta, 2021.
+
+## Histórico
+
+1. Aula 01: Apresentação Plano de Ensino (Exame de Proficiência e internacionalização a cargo do NELTEC
+);
+2. Aula 02: Apresentação do Plano de Ensino - Introdução ao MS-Excel (Conteúdo de maior ou menor, cont num e lógica de programação);
+3. Aula 03: Condição SE em Excel aplicativo em exercícios práticos (Funções Menor, Maior, Funções de Contagem, Condição SE em Excel aplicativo em exercícios práticos.)
+4. Aula 04: Continuação da Condição SE em Excel ()
