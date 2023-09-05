@@ -1,0 +1,2 @@
+# Funções SOMASE, SOMASES, PROCV e PROCH
+
